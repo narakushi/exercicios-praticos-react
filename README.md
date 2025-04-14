@@ -14,8 +14,7 @@ O botão "Incrementar" deve aumentar o contador em 1
 O botão "Zerar" deve zerar o contador
 
 Dica: useState, onClick, e arrow functions 👇
-
-
+<br>
 🌿 Nível 2 – Atualização condicional
 Crie um componente que:
 
@@ -26,8 +25,7 @@ Tem um botão que muda o nome para "Ciclana"
 Mas só muda o nome se ainda for "Fulana" (senão, não faz nada)
 
 Dica: Use um if dentro da função que muda o nome.
-
-
+<br>
 🌳 Nível 3 – Prática com argumentos
 Crie um componente com:
 
